@@ -1,0 +1,29 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  isbn: MyString
+  title: MyString
+  author: MyString
+  language: MyString
+  published: 2022-07-29
+  edition: MyString
+  subject: MyString
+  created_at: 2022-07-29 23:09:03
+  updated_at: 2022-07-29 23:09:03
+  book_count: 1
+  is_issued: false
+  number_hold_req: 1
+
+two:
+  isbn: MyString
+  title: MyString
+  author: MyString
+  language: MyString
+  published: 2022-07-29
+  edition: MyString
+  subject: MyString
+  created_at: 2022-07-29 23:09:03
+  updated_at: 2022-07-29 23:09:03
+  book_count: 1
+  is_issued: false
+  number_hold_req: 1

@@ -1,0 +1,23 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  university: MyString
+  location: MyString
+  max_days: 1
+  fines: 1.5
+  created_at: 2022-07-29 23:24:40
+  updated_at: 2022-07-29 23:24:40
+  books_id: 1
+  users_id: MyString
+
+two:
+  name: MyString
+  university: MyString
+  location: MyString
+  max_days: 1
+  fines: 1.5
+  created_at: 2022-07-29 23:24:40
+  updated_at: 2022-07-29 23:24:40
+  books_id: 1
+  users_id: MyString

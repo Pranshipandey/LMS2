@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  date: 2022-07-29
+  is_special: false
+  is_approved: false
+  books_id: MyString
+  librarians_id: 1
+  students_id: MyString
+
+two:
+  date: 2022-07-29
+  is_special: false
+  is_approved: false
+  books_id: MyString
+  librarians_id: 1
+  students_id: MyString
